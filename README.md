@@ -1,4 +1,4 @@
-# From-Sights-to-Insights-Towards-Summarization-of-Multimodal-Clinical-Documents
+# From-Sights-to-Insights-Towards-Summarization of Multimodal Clinical Documents
 The code of our proposed model and  datasets used  in  our paper "From Sights to Insights : Towards Summarization of Multimodal Clinical Documents" is available in this repo.
 
 
